@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: #f3f3f9;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+} 
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 10px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    
+}
+
